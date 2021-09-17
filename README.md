@@ -337,7 +337,7 @@ To date, **the product matrix built on the CheersLand is as follows:**
 We estimate that the game module program based on CheersLand will be launched in 2022, which will provide game builders with simple and easy-to-use API, and truly power their games with blockchain. This is exactly the Build to Earn mode we designed. 
 
 We believe that CheersLand GameFi Universe can make the gamers realize Play to Earn, which will also become a powerful platform for attracting developers to blockchain technology and GameFi.
-![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/24.jpg)
+![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/25.jpg)
 
 ## Anti-cheating Mechanism
 In order to guarantee the fairness of the game, we have designed an anti-cheating mechanism. Taking Crypto Pirates as an example, the anti-cheating mechanism mainly consists of the following four points:
