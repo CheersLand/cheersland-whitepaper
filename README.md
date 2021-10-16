@@ -292,7 +292,7 @@ As time passes, all allocations that initially are managed by the CheersLand tea
 
 # Token Sale
 CheersLand is planning to raise $2,385,500 in token sale of CHEERS to strategic investors and launchpads. **The details are as follows:**
-![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/27.png)
+![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/image.png)
 # Unlock Schedule
 CHEERS will be unlocked in a predetermined schedule which lasts for 64 months from the public sale. The initial circulating supply is set to 4,145,000 CHEERS - 4.145% of the total supply.
 ![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/28.png)
