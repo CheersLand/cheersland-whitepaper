@@ -365,10 +365,10 @@ Before the new feature is released, we will first complete internal audits and t
 - Audit to the Staking and Invitation Contract :white_check_mark:
 - Launch of the first Classic Game :white_check_mark:
 - Launch of whitepaper V1.0 and tokenomics :white_check_mark:
-- Community building and growth
-- IGO MVP pre-release on BSC
-- Public Sale of CHEERS
+- Community building and growth :white_check_mark:
+- IGO MVP pre-release on BSC :white_check_mark:
 ## Q4 2021
+- Public Sale of CHEERS
 - Official launch and operation of IGO
 - Establishment of the Community Vault
 - Launch of the second Classic Game
