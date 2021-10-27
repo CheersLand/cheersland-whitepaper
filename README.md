@@ -443,6 +443,20 @@ Kerstin has solid design skills. Before CheersLand, he worked as the Design Engi
 
 [Linkedin](https://www.linkedin.com/in/kerstin-darick/)
 
+## Francis Dhun - Advisor
+Francis is the CEO at Trendsetter Ventures and owner of the brand The Crypto Lifestyle on YouTube.
+
+He has been fully committed working fulltime in the blockchain and crypto currency industry since 2017 investing into early phase projects at the grass roots level for almost 5 straight years.
+
+[Twitter](https://twitter.com/TheCryptoLif7/)/[Telegram](https://t.me/TheCryptoLifestyle)
+
+## Matthew Graham Kay - Advisor
+Matthew is the Co-Founder of Trendsetter Ventures and a team member of The Crypto Lifestyle brand.
+
+He also works as an advisor for PolkaEx and GameStar.
+
+[Telegram](https://t.me/MicSav)
+
 # Social Media
 [Twitter](https://twitter.com/cheers_land)
 
