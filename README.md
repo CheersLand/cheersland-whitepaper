@@ -434,15 +434,6 @@ Besides, Janna previously worked as a project manager at NetEase Games (NASDAQ: 
 
 [Linkedin](https://www.linkedin.com/in/jannading/)/[Telegram](https://t.me/cheersjanna)
 
-## Kerstin Darick - Lead Designer
-Kerstin led the art team and designed the original CheersLand. 
-
-Kerstin has passion for art creation and competitive games, and he is responsible for the art direction and many gaming design concepts.
-
-Kerstin has solid design skills. Before CheersLand, he worked as the Design Engineer at WeChat.
-
-[Linkedin](https://www.linkedin.com/in/kerstin-darick/)
-
 ## Francis Dhun - Advisor
 Francis is the CEO at Trendsetter Ventures and owner of the brand The Crypto Lifestyle on YouTube.
 
