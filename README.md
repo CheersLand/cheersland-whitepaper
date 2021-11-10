@@ -286,16 +286,16 @@ CHEERS holders will decide and modify the proportion of inflows through governan
 
 # Allocation
 The distribution of $CHEERS tokens is shown in the following table:
-![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/16.png)
-![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/17.png)
+![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/30.png)
+![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/31.png)
 As time passes, all allocations that initially are managed by the CheersLand team and foundation will be integrated into the CheersLand DAO and CHEERS holders will be able to vote on decisions about using them. These allocations are something that could potentially be decided by governance over time.
 
 # Token Sale
 CheersLand is planning to raise $2,385,500 in token sale of CHEERS to strategic investors and launchpads. **The details are as follows:**
-![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/image.png)
+![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/32.png)
 # Unlock Schedule
 CHEERS will be unlocked in a predetermined schedule which lasts for 64 months from the public sale. The initial circulating supply is set to 4,145,000 CHEERS - 4.145% of the total supply.
-![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/28.png)
+![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/33.png)
 ![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/20.png)
 The above chart illustrates the maximum possible issuance of CHEERS tokens over the coming years, and the total supply will never exceed 100,000,000. Through the development of the ecosystem and the distribution of CHEERS, CheersLand will gradually evolve into a community-owned decentralized organization with the ownership becoming less concentrated over time.
 
