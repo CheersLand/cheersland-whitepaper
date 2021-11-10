@@ -434,6 +434,15 @@ Besides, Janna previously worked as a project manager at NetEase Games (NASDAQ: 
 
 [Linkedin](https://www.linkedin.com/in/jannading/)/[Telegram](https://t.me/cheersjanna)
 
+## Serhat Yanar - Business Partner
+Serhat is in charge of business and public relations at CheersLand.
+
+He is here to maximize the business opportunities with CheersLand ecosystem partners, launchpads, and CEXs and expand partnerships with other excellent crypto projects for CheersLand.
+
+Serhat is the founder of Whitelist IDOs, a platform to search and publish live whitelists of trustable IDOs and IGOs of various launchpads. He is an experienced crypto market analyser and investor since 2016 and very interested with GameFi and Metaverse.
+
+[Linkedin](https://www.linkedin.com/in/serhatyanar)/[Telegram](https://t.me/xxyanarxx)
+
 ## Francis Dhun - Advisor
 Francis is the CEO at Trendsetter Ventures and owner of the brand The Crypto Lifestyle on YouTube.
 
@@ -447,15 +456,6 @@ Matthew is the Co-Founder of Trendsetter Ventures and a team member of The Crypt
 He also works as an advisor for PolkaEx and GameStar.
 
 [Telegram](https://t.me/MicSav)
-
-## Serhat Yanar - Business Partner
-Serhat is in charge of business and public relations at CheersLand.
-
-He is here to maximize the business opportunities with CheersLand ecosystem partners, launchpads, and CEXs and expand partnerships with other excellent crypto projects for CheersLand.
-
-Serhat is the founder of Whitelist IDOs, a platform to search and publish live whitelists of trustable IDOs and IGOs of various launchpads. He is an experienced crypto market analyser and investor since 2016 and very interested with GameFi and Metaverse.
-
-[Linkedin](https://www.linkedin.com/in/serhatyanar)/[Telegram](https://t.me/xxyanarxx)
 
 # Social Media
 [Twitter](https://twitter.com/cheers_land)
