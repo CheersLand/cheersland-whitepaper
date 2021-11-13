@@ -464,7 +464,7 @@ He has been in crypto since 2015 and writing smart contracts. Highly expert stra
 
 He is with CheersLand to get maximum Tier 1 partnership and connections to boost marketing and provide maximum value to the project.
 
-[Tebsite](https://prostarter.io/)/[Telegram](https://t.me/naveed_prot)
+[Website](https://prostarter.io/)/[Telegram](https://t.me/naveed_prot)
 
 # Social Media
 [Twitter](https://twitter.com/cheers_land)
