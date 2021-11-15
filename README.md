@@ -24,7 +24,7 @@
 
 # CheersLand Overview
 ![CheersLand](https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/1.png)
-CheersLand is an expandable GameFi universe where anyone can monetize their gaming experiences and social networks. CheersLand GameFi Universe is composed of multi-game combinations, Ranking List, Initial Gaming Offering (IGO), NFT Market, Multi-asset Staking Platform, etc..
+CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks. CheersLand GameFi Metaverse Aggregator is composed of multi-game combinations, Ranking List, Initial Gaming Offering (IGO), NFT Market, Multi-asset Staking Platform, etc..
 
 In CheersLand, gamers can earn rewards through skilled gameplay and contributions to the ecosystem. This Play to Earn mode is adopted by Axie Infinity, My Neighbor Alice, Alien Worlds, etc., which caused enthusiastic response and commercial success in GameFi.
 
