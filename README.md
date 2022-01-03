@@ -414,7 +414,7 @@ Peter is proficient in Golang and Rust, with deep understanding of smart contrac
 
 Peter also had stints at Microsoft Research Asia (MSRA) and Pinduoduo (NASDAQ: PDD) before co-founding CheersLand.
 
-[Linkedin](https://www.linkedin.com/in/peterlim1010/)/[GitHub](https://github.com/peterlimjr)
+[GitHub](https://github.com/peterlimjr)
 
 ## M.Joesph Cheung - Strategic Partner
 As the strategic partner at CheersLand, Joesph is involved in all key decisions from product to marketing and in charge of the development strategy and resource integration.
@@ -432,7 +432,7 @@ Thanks to her experience gained in JD.COM(NASDAQ: JD) as the user experience des
 
 Besides, Janna previously worked as a project manager at NetEase Games (NASDAQ: NETS) and she has good connections in the gaming industry.
 
-[Linkedin](https://www.linkedin.com/in/jannading/)/[Telegram](https://t.me/cheersjanna)
+[Telegram](https://t.me/cheersjanna)
 
 ## Serhat Yanar - Business Partner
 Serhat is in charge of business and public relations at CheersLand.
