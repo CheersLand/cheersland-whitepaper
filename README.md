@@ -407,12 +407,10 @@ To Be Announced
 
 CheersLand is being developed by a professional team with extensive experiences across blockchain, DeFi and gaming. The founding team consists of the following individuals:
 
-## Peter Lim - Technical Partner
+## Peter Lim - Chief Tech Officer
 Peter is a well-experienced team leader with crucial in this position soft skills and technical background and in charge of engineering operations.
 
 Peter is proficient in Golang and Rust, with deep understanding of smart contract as an early adopter of Ethereum. He is kind of a genius with fast learning skills.
-
-Peter also had stints at Microsoft Research Asia (MSRA) and Pinduoduo (NASDAQ: PDD) before co-founding CheersLand.
 
 [GitHub](https://github.com/peterlimjr)
 
@@ -425,7 +423,17 @@ Previously with Trueway Capital as Investment Partner & Researcher, Joesph has l
 
 [Linkedin](https://www.linkedin.com/in/m-joesph-cheung-223691103/)/[Telegram](https://t.me/bigcatfi)
 
-## Janna Ding - Head of Growth
+## Serhat Yanar - Co-founder
+Serhat is co-founder and in charge of business and public relations at CheersLand. 
+
+He is here to maximize the business opportunities with CheersLand ecosystem partners, launchpads, and CEXs and expand partnerships with other excellent crypto projects for CheersLand. 
+
+Serhat is the founder of Whitelist IDOs, a platform to search and publish live whitelists of trustable IDOs and IGOs of various launchpads. 
+He is an experienced crypto market analyser and investor since 2016 and very interested with GameFi and Metaverse.
+
+[Linkedin](https://www.linkedin.com/in/serhatyanar)/[Telegram](https://t.me/xxyanarxx)
+
+## Janna D.ing - Operating Lead
 Janna is responsible for user growth and community development in CheersLand.
 
 Thanks to her experience gained in JD.COM(NASDAQ: JD) as the user experience designer, she's been involved in entire implementation processes of various products and helped them to grow up.
@@ -434,14 +442,34 @@ Besides, Janna previously worked as a project manager at NetEase Games (NASDAQ: 
 
 [Telegram](https://t.me/cheersjanna)
 
-## Serhat Yanar - Business Partner
-Serhat is in charge of business and public relations at CheersLand.
+## Alexander Kondrashov - Advisor 
 
-He is here to maximize the business opportunities with CheersLand ecosystem partners, launchpads, and CEXs and expand partnerships with other excellent crypto projects for CheersLand.
+Alexander is a super influencer and entrepreneur with a total audience of over 4 million subscribers. Alexander is the Founder of private “Closed Investors Club” since 2019. Started with the construction of mining farms since he was excited by Crypto back in 2016, and then organized crypto conferences in Dubai 2017–2018.
+A.K. is also an author of the book “Life in motion. How to achieve the success not losing yourself”, the owner of YouTube channel Alexander Kondrashov (1.5 million subscribers) and Instagram channel Alexander Kondrashov (2.5 million subscribers).
+[Wiki](https://en.m.wikipedia.org/wiki/Alexander_Kondrashov)
+[Youtube](https://www.youtube.com/c/AlexanderKondrashov)
+[Instagram](https://www.instagram.com/kondrashov)
 
-Serhat is the founder of Whitelist IDOs, a platform to search and publish live whitelists of trustable IDOs and IGOs of various launchpads. He is an experienced crypto market analyser and investor since 2016 and very interested with GameFi and Metaverse.
+## Lester Lim - Advisor
+Lester is Founder at X21 Digital, a leading Blockchain Advisory and Investment firm that helped many excellent blockchain startups in the crypto area. X21 Digital is focusing on giving the most optimal strategic advice and guidance, to shortcut the clients and partners' path to success. 
 
-[Linkedin](https://www.linkedin.com/in/serhatyanar)/[Telegram](https://t.me/xxyanarxx)
+[Linkedin](https://www.linkedin.com/in/lesterlim15)
+[Twitter](https://twitter.com/LesterLim15)
+
+## Vickaash Agarwal - Advisor
+Vickaash is the CEO of Bluewheel Capital and a veteran from Crypto space who started in late 2016 by organising crypto events. He is also an angel investor, mentor, philanthropist and entreprenuer. He is an IIM Lucknow and Harvard University Alum with Certification In Cryptocurrency from London School of Economics. Over the last 5 years , he has had the opportunity to interact and work alongside the owners of some top crypto projects across the globe.
+
+[Website](https://www.bluewheelcapital.com)
+[Twitter](https://twitter.com/BluewheelC) 
+
+## Kevin Abdulrahman - Advisor
+Kevin is a well-experienced advisor and an active investor with strong network in the crypto. He has been a Motivational speaker for over 20 years.
+His keynotes, workshops, and communication coaching programs have been utilized by companies spanning the Fortune 500, government, non-profit and privately held businesses. 
+
+He is with CheersLand to provide maximum value to the project.
+
+[Linkedin](https://www.linkedin.com/in/kevinabdulrahman)
+[Email](info@kevinabdulrahman.org)
 
 ## Francis Dhun - Advisor
 Francis is the CEO at Trendsetter Ventures and owner of the brand The Crypto Lifestyle on YouTube.
@@ -467,6 +495,8 @@ He is with CheersLand to get maximum Tier 1 partnership and connections to boost
 [Website](https://prostarter.io/)/[Telegram](https://t.me/naveed_prot)
 
 # Social Media
+[Website](https://cheersland.org)
+
 [Twitter](https://twitter.com/cheers_land)
 
 [Telegram](https://t.me/cheersland)
